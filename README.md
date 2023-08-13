@@ -5,7 +5,7 @@ Welcome to my Data Science Portfolio!
 
 
 Find my portfolio here -  
-https://mshankara.github.io/
+https://meenakshishankara.github.io/
 
 My Project repository is here -
 https://github.com/meenakshishankara/Portfolio)
